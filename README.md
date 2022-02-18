@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman1830&label=Profile%20views&color=0e75b6&style=flat" alt="salman1830" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman1830" alt="salman1830" /></a> </p>
-<img align="right" alt="Coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.engineeringclicks.com%2Fengineering-wallpaper%2F&psig=AOvVaw2ZSgvHA8WsOlKHPhVsVEwJ&ust=1645283541358000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNiG8v7EifYCFQAAAAAdAAAAABAD"
+<img align="right" alt="Coding"width="400" src=""D:\Wallpaper\Wallpaper FIFA 19, E3 2018, screenshot, 8K, Games 8281525.jpg""
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/salman mahmud shomrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman mahmud shomrat" height="30" width="40" /></a>
